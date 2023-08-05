@@ -1,2 +1,2 @@
->uvicorn app.py:app  --reload
+>uvicorn app:app  --reload
 تا قسمت 3 دیدم
