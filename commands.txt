@@ -1,2 +1,2 @@
 >uvicorn app:app  --reload
-تا قسمت 3 دیدم
+تا قسمت 7 دیدم
